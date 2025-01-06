@@ -1,3 +1,4 @@
+import java.util.*;
 public class NonRepeating {
     public int firstUniqChar(String s) {
         HashMap<Character, Integer> map1 = new HashMap<>();
